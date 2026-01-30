@@ -1,6 +1,14 @@
 
 Flask Excel upload/download example
 ==================================
+
+<img width="1861" height="896" alt="QQ_1769761048408" src="https://github.com/user-attachments/assets/1f558096-8de6-44c4-96cd-3b2ea9374aea" />
+first upload the excel <br>
+then hit convert to convert exvel to db <br>
+then choose one to ask ai for a sql to query <br>
+you need an opanai endpoint in the config yaml <br>
+then choose the db, do query, get result <br>
+
 Install dependencies:
 ```powershell
 pip install -r requirements.txt
@@ -23,6 +31,12 @@ Notes:
 
 Flask Excel upload/download example
 ==================================
+<img width="1861" height="896" alt="QQ_1769761048408" src="https://github.com/user-attachments/assets/1f558096-8de6-44c4-96cd-3b2ea9374aea" />
+先上传文档 <br>
+点击转化<br>
+选择一个db，问ai要它写个sql给你<br>
+需要config yaml里面加上openai的api，支持应该就行 <br>
+然后你可以选一个db分开执行 <br>
 
 Install dependencies:
 
