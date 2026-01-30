@@ -3,7 +3,7 @@ Flask Excel upload/download example
 ==================================
 Install dependencies:
 ```powershell
-pip install Flask Werkzeug
+pip install -r requirements.txt
 ```
 Run the server:
 ```powershell
@@ -27,7 +27,7 @@ Flask Excel upload/download example
 Install dependencies:
 
 ```powershell
-pip install Flask Werkzeug
+pip install -r requirements.txt
 ````
 Flask Excel upload/download example
 ==================================
