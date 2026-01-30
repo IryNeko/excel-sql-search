@@ -1,0 +1,7 @@
+Flask
+pandas
+openai
+Flask-Cors
+openpyxl
+xlrd
+odfpy
